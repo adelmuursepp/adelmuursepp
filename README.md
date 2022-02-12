@@ -1,11 +1,17 @@
 ### Welcome to my Github profile 👋
 
-My name is Adele and I am a Computer Science student in University of Toronto 📚💻
+My name is Adel and I am a Computer Science student in University of Toronto 📚💻
+
+
 
 ### Links
 ---
 👩‍💻 Have a look at my personal website: [adelmuursepp.work](https://adelmuursepp.work/)
+
 📖 My research paper about analysing language proficiency level with ML: [[Click Here]](https://adelmuursepp.work/ml-research-paper.html)
+
+
+<br/>
 
 ### What I know and love working with
 ---
@@ -17,34 +23,40 @@ My name is Adele and I am a Computer Science student in University of Toronto �
 
 ##### 🔨 Tools
 - VSCode, Pycharm and other IDEs
-- Postman
+- Git
 
 ##### 🖌 Design
 - Figma
 - HTML/CSS
 - Adobe Creative Cloud
 
-
+<br/>
 
 ### 🔭 I'm currently working on 
 ---
 - Indicium research project in a team of five students in University of Toronto under Prof. Pooja Vashisth's guidance
 
+<br/>
 
 ### 🌱 I'm currently learning
 ---
-- Data Structures and Algorithms in university and independently
+- Data Structures and Algorithms in the university and independently
 - Java and R
+
+<br/>
 
 ### 💡 In the future
 ---
 - Looking to work on Machine Learning applications
 - Looking to get involved with tech entrepreneurship
 
+<br/>
 
 ### 🤔 I'm currently looking for help/advice on 
 ---
 - Finding an internship or work experience for summer 2022
+
+<br/>
 
 ### ✨ Be my distraction
 ---
