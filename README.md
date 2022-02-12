@@ -48,6 +48,9 @@ My name is Adele and I am a Computer Science student in University of Toronto ðŸ
 
 ### âœ¨ Be my distraction
 ---
-[adel.muursepp@gmail.com](mailto:adel.muursepp@gmail.com) [LinkedIn](https://www.linkedin.com/in/adel-muursepp/) [Instagram](instagram.com/adel.muursepp)
+[![Github](https://img.shields.io/github/followers/adelmuursepp?label=Follow&style=social)](https://github.com/adelmuursepp) 
+[![Instagram](https://img.shields.io/badge/-@adel.muursepp-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adel.muursepp/)](https://www.instagram.com/adel.muursepp/)
+[![Linkedin](https://img.shields.io/badge/-Adel%20Muursepp-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/adel-muursepp/)](https://www.linkedin.com/in/adel-muursepp/)
+[![Mail](https://img.shields.io/badge/-adel.muursepp@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/adel-muursepp/)](mailto:adel.muursepp@gmail.com)
 
 
