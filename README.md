@@ -15,17 +15,13 @@ My name is Adel and I am a Computer Science student in University of Toronto �
 ## What I know and love working with
 
 #### 💻 Languages
-- Python
-- Ruby
-- Javascript
+Python, Ruby, Javascript
 
 #### 📊 Machine Learning
-- Numpy, pandas, Scikit-Learn
+Numpy, pandas, Scikit-Learn
 
 #### 🖌 Design
-- Figma
-- HTML/CSS
-- Adobe Creative Cloud
+Figma, HTML/CSS, Adobe Creative Cloud
 
 <br/>
 
