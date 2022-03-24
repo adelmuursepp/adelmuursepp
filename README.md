@@ -43,7 +43,7 @@ Figma, HTML/CSS, Adobe Creative Cloud
 <br/>
 
 ## 🤔 I'm currently looking for help/advice on 
-- Finding an internship or work experience for summer 2022
+- Getting involved with AI research 
 
 <br/>
 
