@@ -17,6 +17,9 @@ My name is Adel and I am a Computer Science student in University of Toronto �
 #### 💻 Languages
 Python, Ruby, Javascript
 
+#### ⚒ Frameworks
+Django, Ruby on Rails, React, Flask
+
 #### 📊 Machine Learning
 Numpy, pandas, Scikit-Learn
 
@@ -25,10 +28,6 @@ Figma, HTML/CSS, Adobe Creative Cloud
 
 <br/>
 
-## 🔭 I'm currently working on 
-- Indicium research project in a team of five students in University of Toronto under Prof. Pooja Vashisth's guidance
-
-<br/>
 
 ## 🌱 I'm currently learning
 - Data Structures and Algorithms in the university and independently
@@ -37,13 +36,13 @@ Figma, HTML/CSS, Adobe Creative Cloud
 <br/>
 
 ## 💡 In the future
-- Looking to work on Machine Learning applications
-- Looking to get involved with tech entrepreneurship
+- Looking for Summer 2023 Internship
 
 <br/>
 
-## 🤔 I'm currently looking for help/advice on 
-- Getting involved with AI research 
+## 🔭 Shortly, some of my previous projects 
+- Indicium research project in a team of five students in University of Toronto under Prof. Pooja Vashisth's guidance using React and Flask
+- Designing and hosting a React website for logistics company in UK as a freelancer
 
 <br/>
 
