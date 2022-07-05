@@ -36,7 +36,7 @@ Figma, HTML/CSS, Adobe Creative Cloud
 <br/>
 
 ## 💡 In the future
-- Looking for Summer 2023 Internship
+- Looking to get proficient in multiple Full Stack development frameworks
 
 <br/>
 
