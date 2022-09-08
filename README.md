@@ -15,13 +15,16 @@ My name is Adel and I am a Computer Science student in University of Toronto �
 ## What I know and love working with
 
 #### 💻 Languages
-Python, Ruby, Javascript
+Python, Ruby, Javascript, SQL
 
 #### ⚒ Frameworks
-Django, Ruby on Rails, React, Flask
+Django REST, Ruby on Rails, React, Flask
+
+#### ⚙️ Tools
+Docker, Azure, CI/CD, PostgreSQL
 
 #### 📊 Machine Learning
-Numpy, pandas, Scikit-Learn
+Numpy, pandas, Scikit-Learn, Jupyter
 
 #### 🖌 Design
 Figma, HTML/CSS, Adobe Creative Cloud
@@ -41,6 +44,9 @@ Figma, HTML/CSS, Adobe Creative Cloud
 <br/>
 
 ## 🔭 Shortly, some of my previous projects 
+- Working in a construction automation startup to use robotics in home building and training ML models to make construction more efficient
+- Technical co-founder of Ramuri, a startup at U of T incubators Hatchery and ICUBE
+- Passionate about new web and application development technologies, leading workshops on promising technologies at U of T Web Dev Club as Microsoft Student Ambassador
 - Indicium research project in a team of five students in University of Toronto under Prof. Pooja Vashisth's guidance using React and Flask
 - Designing and hosting a React website for logistics company in UK as a freelancer
 
