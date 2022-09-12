@@ -13,15 +13,22 @@ My name is Adel and I am a Computer Science student in University of Toronto �
 
 ## Projects
 
-🏠 Solo-coded mobile-responsive Ruby on Rails application for apartments to share in Estonia: [Try it out](https://co-flat.com/), [Repository Link](https://github.com/adelmuursepp/co-flat-website)
+##### 🏠 Solo-coded mobile-responsive Ruby on Rails application for apartments to share in Estonia: [Try it out](https://co-flat.com/), [Repository Link](https://github.com/adelmuursepp/co-flat-website)
 - Filtering based on address, apartment features and price (integration with MapBox API)
 - Address suggestion (integration with Algolia API)
 - Messaging, authentication, edit profile functions
 
-🎤 React website for first youth-led Estonian politics podcast: [Listen to our episodes](https://infosolm.netlify.app/), [Repository Link](https://github.com/adelmuursepp/podcast-infosolm)
+##### 🎤 React website for first youth-led Estonian politics podcast: [Listen to our episodes](https://infosolm.netlify.app/), [Repository Link](https://github.com/adelmuursepp/podcast-infosolm)
 - Founder of the podcast where we interviewed the Prime Minister, Members of European Parliament and diplomats from the student perspective
 - Edited audio files, integrated React website with Buzzsprout API to drive podcast downloads to 6000, with website downloads outperforming Spotify and Apple Podcasts as a medium
 
+##### 🪴 Led a team of 3 developers to build application Suburban Farm at Le Wagon boot camp: [Listen to my pitch on Youtube](https://youtu.be/f_zCMICRmXo?t=565)
+- Led the creation of the application, starting from designs on Figma, hosting on Heroku, creating the database schema and pitching the idea
+
+##### 🌱 Technical founder of a sustainable startup Ramuri at U of T incubators Hatchery & ICUBE
+- Created the REST API for accessing information on brands: [Try it out](https://ramuriapi.herokuapp.com/brands/)
+- Created a Django website with Content Management System to represent the business, integrated with Mailerlite to gather information about first users through a form: [Sign up to be one of our first users](https://www.ramuri.ca/en/)
+- Managing the resources and development of the browser extension displaying sustainability ratings for brands
 
 <br/>
 
@@ -56,12 +63,11 @@ Figma, HTML/CSS, Adobe Creative Cloud
 
 <br/>
 
-## 🔭 Shortly, some of my previous projects 
+## 🔭 Shortly, some of my formal experience
 - Working in a construction automation startup to use robotics in home building and training ML models to make construction more efficient
-- Technical co-founder of Ramuri, a startup at U of T incubators Hatchery and ICUBE
-- Passionate about new web and application development technologies, leading workshops on promising technologies at U of T Web Dev Club as Microsoft Student Ambassador
+- Workshop Lead at U of T Web Dev Club and a Microsoft Student Ambassador
 - Indicium research project in a team of five students in University of Toronto under Prof. Pooja Vashisth's guidance using React and Flask
-- Designing and hosting a React website for logistics company in UK as a freelancer
+- Designing and hosting a React website for logistics company in UK as a freelancer: [Try it out](https://webcafs.netlify.app/)
 
 <br/>
 
