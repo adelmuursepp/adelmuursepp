@@ -9,6 +9,19 @@ My name is Adel and I am a Computer Science student in University of Toronto �
 
 📖 My research paper about analysing language proficiency level with ML: [[Click Here]](https://adelmuursepp.work/ml-research-paper.html)
 
+<br/>
+
+## Projects
+
+🏠 Solo-coded mobile-responsive Ruby on Rails application for apartments to share in Estonia: [Try it out](https://co-flat.com/), [Repository Link](https://github.com/adelmuursepp/co-flat-website)
+- Filtering based on address, apartment features and price (integration with MapBox API)
+- Address suggestion (integration with Algolia API)
+- Messaging, authentication, edit profile functions
+
+🎤 React website for first youth-led Estonian politics podcast: [Listen to our episodes](https://infosolm.netlify.app/), [Repository Link](https://github.com/adelmuursepp/podcast-infosolm)
+- Founder of the podcast where we interviewed the Prime Minister, Members of European Parliament and diplomats from the student perspective
+- Edited audio files, integrated React website with Buzzsprout API to drive podcast downloads to 6000, with website downloads outperforming Spotify and Apple Podcasts as a medium
+
 
 <br/>
 
