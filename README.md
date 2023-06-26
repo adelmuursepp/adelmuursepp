@@ -38,7 +38,7 @@ My name is Adel and I am a Computer Science student in University of Toronto ðŸ“
 
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adelmuursepp&show_icons=true&locale=en&\&rank_icon=github" alt="adelmuursepp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adelmuursepp&show_icons=true&locale=en&\&rank_icon=github&include_all_commits=true" alt="adelmuursepp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adelmuursepp&" alt="adelmuursepp" /></p>
 
