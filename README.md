@@ -31,7 +31,7 @@ My name is Adel and I am a Computer Science student in University of Toronto �
 [Listen to my pitch on Youtube](https://youtu.be/f_zCMICRmXo?t=565)
 - Led the creation of the application, starting from designs on Figma, hosting on Heroku, creating the database schema and pitching the idea
 
-#### 🌱 Technical founder of a sustainability startup Ramuri at U of T incubators Hatchery & ICUBE
+#### 🌱 Technical founder of a sustainability-focused startup Ramuri at U of T incubators Hatchery & ICUBE
 - Created the REST API for accessing information on brands: [Try it out](https://ramuriapi.herokuapp.com/brands/)
 - Created a Django website with Content Management System to represent the business, integrated with Mailerlite to gather information about first users through a form: [Sign up to be one of our first users](https://www.ramuri.ca/en/)
 - Managing the resources and development of the browser extension displaying sustainability ratings for brands
