@@ -38,6 +38,14 @@ My name is Adel and I am a Computer Science student in University of Toronto ğŸ“
 
 <br/>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adelmuursepp&show_icons=true&locale=en&layout=compact" alt="adelmuursepp" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adelmuursepp&show_icons=true&locale=en" alt="adelmuursepp" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adelmuursepp&" alt="adelmuursepp" /></p>
+
+<br/>
+
 ## What I know and love working with
 
 #### ğŸ’» Languages
