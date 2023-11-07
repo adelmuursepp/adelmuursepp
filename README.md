@@ -51,7 +51,7 @@ My name is Adel and I am a Computer Science student in University of Toronto �
 ## What I know and love working with
 
 #### 💻 Languages
-Python, Ruby, Javascript, SQL
+Python, Java, Ruby, Javascript, SQL, R
 
 #### ⚒ Frameworks
 Django REST, Ruby on Rails, React, Flask
@@ -67,15 +67,9 @@ Figma, HTML/CSS, Adobe Creative Cloud
 
 <br/>
 
-
-## 🌱 I'm currently learning
-- Data Structures and Algorithms in the university and independently
-- Java and R
-
-<br/>
-
-## 💡 In the future
-- Looking to get proficient in multiple Full Stack development frameworks
+## 💡 Currently working on
+- Looking to get proficient in multiple Full Stack development frameworks and participating in hackathons
+- Working on trading algorithms with UTMIST team under supervision of two Masters students
 
 <br/>
 
