@@ -15,7 +15,7 @@ My name is Adel and I am a Computer Science student in University of Toronto ğŸ“
 
 #### ğŸ  Solo-coded mobile-responsive Ruby on Rails application for apartments to share in Estonia: 
 
-[About the project](https://adelmuursepp.work/flatmate-website.html), [Repository Link](https://github.com/adelmuursepp/co-flat-website)
+[About the project](https://adelmuursepp.work/flatmate-website.html), [Repository Link](https://github.com/adelmuursepp/co-flat-website), [Try it out](https://coflat20-595fdbc6e546.herokuapp.com/)
 - Filtering based on address, apartment features and price (integration with MapBox API)
 - Address suggestion (integration with Algolia API)
 - Messaging, authentication, edit profile functions
