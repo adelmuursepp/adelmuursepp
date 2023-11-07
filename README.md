@@ -36,6 +36,10 @@ My name is Adel and I am a Computer Science student in University of Toronto ðŸ“
 - Created a Django website with Content Management System to represent the business, integrated with Mailerlite to gather information about first users through a form: [Sign up to be one of our first users](https://www.ramuri.ca/en/)
 - Managing the resources and development of the browser extension displaying sustainability ratings for brands
 
+#### ðŸŒŽ Workshops and community
+- I often give workshops at conferences like Women in Tech at Microsoft Office, Canada's largest hackathon Hack the North, Bay Area's largest women and non-binary hackathon Superposition among others
+- Have a look at my workshop on Azure technologies streamed on Youtube by Microsoft: [Event link](https://developer.microsoft.com/en-us/reactor/events/18451/)
+
 <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adelmuursepp&show_icons=true&locale=en&\&rank_icon=github&include_all_commits=true" alt="adelmuursepp" /></p>
