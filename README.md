@@ -5,7 +5,7 @@ My name is Adel and I am a Computer Science student in University of Toronto �
 
 
 ## Links
-👩‍💻 Have a look at my personal website: [adelmuursepp.work](https://adelmuursepp.work/)
+👩‍💻 Have a look at my personal website: [adelmuursepp.github.io](https://adelmuursepp.github.io/)
 
 📖 My research paper about analysing language proficiency level with ML: [[Click Here]](https://adelmuursepp.work/ml-research-paper.html)
 
