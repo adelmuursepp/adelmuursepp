@@ -40,6 +40,10 @@ My name is Adel and I am a Computer Science student in University of Toronto �
 - I often give workshops at conferences like Women in Tech at Microsoft Office, Canada's largest hackathon Hack the North, Bay Area's largest women and non-binary hackathon Superposition among others
 - Have a look at my workshop on Azure technologies streamed on Youtube by Microsoft: [Event link](https://developer.microsoft.com/en-us/reactor/events/18451/)
 
+#### 👩‍💻 Some AI-focused hackathon projects
+- [Fruit Ripeness Predictor](https://devpost.com/software/seasonal)
+- [AI Agent on Phone for Health Care](https://github.com/adelmuursepp/pocketdoc)
+
 <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adelmuursepp&show_icons=true&locale=en&\&rank_icon=github&include_all_commits=true" alt="adelmuursepp" /></p>
