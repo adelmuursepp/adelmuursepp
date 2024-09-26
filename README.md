@@ -13,6 +13,14 @@ My name is Adel and I am a Computer Science student in University of Toronto �
 
 ## Projects
 
+#### 🍓 Sustainability and nutrition education Android application
+[The project](https://github.com/utmgdsc/Green-Grub/tree/main)
+
+- GreenGrub is a mobile app designed to encourage sustainable food choices through barcode scanning, real-time nutrition and sustainability data, and gamified user engagement.
+- Built with React Native for the frontend and Django REST for the backend, it uses APIs like OpenFoodFacts to deliver sustainability ratings.
+- Users can track progress, complete quizzes, and compete with friends on leaderboards, all while promoting eco-conscious habits.
+- Featured in the [U of T news paper Medium](https://themedium.ca/greengrub-an-app-dedicated-to-food-sustainability-and-healthy-eating/).
+
 #### 🏠 Solo-coded mobile-responsive Ruby on Rails application for apartments to share in Estonia: 
 
 [About the project](https://adelmuursepp.work/flatmate-website.html), [Repository Link](https://github.com/adelmuursepp/co-flat-website), [Try it out](https://coflat20-595fdbc6e546.herokuapp.com/)
