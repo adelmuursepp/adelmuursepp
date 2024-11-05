@@ -43,6 +43,7 @@ My name is Adel and I am a Computer Science student in University of Toronto �
 #### 👩‍💻 Some AI-focused hackathon projects
 - [Fruit Ripeness Predictor](https://devpost.com/software/seasonal)
 - [AI Agent on Phone for Health Care](https://github.com/adelmuursepp/pocketdoc)
+- [AI Care for Seniors with Dementia](https://devpost.com/software/carely)
 
 <br/>
 
