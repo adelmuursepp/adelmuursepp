@@ -3,14 +3,6 @@
 My name is Adel and I am a Computer Science student in University of Toronto 📚💻
 
 
-
-## Links
-👩‍💻 Have a look at my personal website: [adelmuursepp.github.io](https://adelmuursepp.github.io/)
-
-📖 My research paper about analysing language proficiency level with ML: [[Click Here]](https://adelmuursepp.work/ml-research-paper.html)
-
-<br/>
-
 ## Projects
 
 #### 🍓 Sustainability and nutrition education Android application
@@ -23,7 +15,7 @@ My name is Adel and I am a Computer Science student in University of Toronto �
 
 #### 🏠 Solo-coded mobile-responsive Ruby on Rails application for apartments to share in Estonia: 
 
-[About the project](https://adelmuursepp.work/flatmate-website.html), [Repository Link](https://github.com/adelmuursepp/co-flat-website), [Try it out](https://coflat20-595fdbc6e546.herokuapp.com/)
+[Repository Link](https://github.com/adelmuursepp/co-flat-website)
 - Filtering based on address, apartment features and price (integration with MapBox API)
 - Address suggestion (integration with Algolia API)
 - Messaging, authentication, edit profile functions
@@ -63,7 +55,7 @@ My name is Adel and I am a Computer Science student in University of Toronto �
 ## What I know and love working with
 
 #### 💻 Languages
-Python, Java, Ruby, Javascript, SQL, R
+Python, Java, Ruby, Javascript, TypeScript, SQL, R
 
 #### ⚒ Frameworks
 Django REST, Ruby on Rails, React, Flask
@@ -87,6 +79,8 @@ Figma, HTML/CSS, Adobe Creative Cloud
 
 ## 🔭 Shortly, some of my formal experience
 - Working in a construction automation startup to use robotics in home building and training ML models to make construction more efficient
+- Past internship experience in Scotiabank, Cisco & IBM
+- LLM and Cyber Security researcher at the University of Toronto, under the supervision of Prof. Saileshwar
 - Workshop Lead at U of T Web Dev Club and a Microsoft Student Ambassador
 - Indicium research project in a team of five students in University of Toronto under Prof. Pooja Vashisth's guidance using React and Flask
 - Designing and hosting a React website for logistics company in UK as a freelancer: [Try it out](https://webcafs.netlify.app/)
