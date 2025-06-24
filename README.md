@@ -1,4 +1,4 @@
-### Welcome to my Github profile 👋
+### Welcome to my GitHub profile 👋
 
 My name is Adel and I am a Computer Science student in University of Toronto 📚💻
 
@@ -7,8 +7,7 @@ I am currently coding at Palantir and follow new cool tech about AI/security/eva
 
 ## Hobby Projects
 
-#### 🍓 Sustainability and nutrition education Android application
-[The project](https://github.com/utmgdsc/Green-Grub/tree/main)
+### 🍓 Sustainability and nutrition education Android application [[project repo](https://github.com/utmgdsc/Green-Grub/tree/main)]
 
 - GreenGrub is a mobile app designed to encourage sustainable food choices through barcode scanning, real-time nutrition and sustainability data, and gamified user engagement.
 - Built with React Native for the frontend and Django REST for the backend, it uses APIs like OpenFoodFacts to deliver sustainability ratings.
@@ -19,7 +18,7 @@ I am currently coding at Palantir and follow new cool tech about AI/security/eva
 <br/>
 <br/>
 
-#### 🏠 Solo-coded mobile-responsive Ruby on Rails application for apartments to share in Estonia: 
+### 🏠 Solo-coded mobile-responsive Ruby on Rails application for apartments to share in Estonia: 
 
 [Repository Link](https://github.com/adelmuursepp/co-flat-website)
 - Filtering based on address, apartment features and price (integration with MapBox API)
@@ -31,7 +30,7 @@ I am currently coding at Palantir and follow new cool tech about AI/security/eva
 <br/>
 <br/>
 
-#### 🎤 React website for first youth-led Estonian politics podcast: 
+### 🎤 React website for first youth-led Estonian politics podcast: 
 
 [Listen to our episodes](https://infosolm.netlify.app/), [Repository Link](https://github.com/adelmuursepp/podcast-infosolm)
 - Founder of the podcast where we interviewed the Prime Minister, Members of European Parliament and diplomats from the student perspective
@@ -48,21 +47,21 @@ I am currently coding at Palantir and follow new cool tech about AI/security/eva
 
 
 
-#### 🪴 Led a team of 3 developers to build application Suburban Farm at Le Wagon boot camp: 
+### 🪴 Led a team of 3 developers to build application Suburban Farm at Le Wagon boot camp: 
 
 [Listen to my pitch on Youtube](https://youtu.be/f_zCMICRmXo?t=565)
 - Led the creation of the application, starting from designs on Figma, hosting on Heroku, creating the database schema and pitching the idea
 
-#### 🌱 Technical founder of a sustainability-focused startup Ramuri at U of T incubators Hatchery & ICUBE
+### 🌱 Technical founder of a sustainability-focused startup Ramuri at U of T incubators Hatchery & ICUBE
 - Created the REST API for accessing information on brands: [Try it out](https://ramuriapi.herokuapp.com/brands/)
 - Created a Django website with Content Management System to represent the business, integrated with Mailerlite to gather information about first users through a form: [Sign up to be one of our first users](https://www.ramuri.ca/en/)
 - Managing the resources and development of the browser extension displaying sustainability ratings for brands
 
-#### 🌎 Workshops and community
+### 🌎 Workshops and community
 - I often give workshops at conferences like Women in Tech at Microsoft Office, Canada's largest hackathon Hack the North, Bay Area's largest women and non-binary hackathon Superposition among others
 - Have a look at my workshop on Azure technologies streamed on Youtube by Microsoft: [Event link](https://developer.microsoft.com/en-us/reactor/events/18451/)
 
-#### 👩‍💻 Some hackathon projects
+### 👩‍💻 Some hackathon projects
 - [Security Prize from Stanford TreeHacks - Homomorphic Encryption with some Blockchain](https://devpost.com/software/cipher-shield)
 - [Fruit Ripeness Predictor](https://devpost.com/software/seasonal)
 - [AI Agent on Phone for Health Care](https://github.com/adelmuursepp/pocketdoc)
