@@ -5,7 +5,7 @@ My name is Adel and I am a Computer Science student in University of Toronto �
 I am currently coding at Palantir and follow new cool tech about AI/security/evals! I worked previously in Amazon, IBM and Cisco where I did infra and different AI integrations.
 
 
-## Projects
+## Hobby Projects
 
 #### 🍓 Sustainability and nutrition education Android application
 [The project](https://github.com/utmgdsc/Green-Grub/tree/main)
@@ -58,7 +58,7 @@ I am currently coding at Palantir and follow new cool tech about AI/security/eva
 ## What I know and love working with
 
 #### 💻 Languages
-Python, Java, Ruby, Javascript, TypeScript, SQL, R
+Python, Java, Ruby, TypeScript, SQL, R, C
 
 #### ⚒ Frameworks
 Django REST, Ruby on Rails, React, Flask
@@ -75,17 +75,19 @@ Figma, HTML/CSS, Adobe Creative Cloud
 <br/>
 
 ## 💡 Currently working on
-- Looking to get proficient in multiple Full Stack development frameworks and participating in hackathons
-- Working on trading algorithms with UTMIST team under supervision of two Masters students
+- Evals, security and some C++ hobby projects
+
 
 <br/>
 
 ## 🔭 Shortly, some of my formal experience
 - Working in a construction automation startup to use robotics in home building and training ML models to make construction more efficient
-- Past internship experience in Scotiabank, Cisco & IBM
+- Past internship experience in Scotiabank, Cisco, IBM, Amazon & Palantir
+- Open source contributions to Gemini evals and LLM red teaming repos
 - LLM and Cyber Security researcher at the University of Toronto, under the supervision of Prof. Saileshwar
 - Workshop Lead at U of T Web Dev Club and a Microsoft Student Ambassador
 - Indicium research project in a team of five students in University of Toronto under Prof. Pooja Vashisth's guidance using React and Flask
+- Working on trading algorithms with UTMIST team under supervision of two Masters students
 - Designing and hosting a React website for logistics company in UK as a freelancer: [Try it out](https://webcafs.netlify.app/)
 
 <br/>
