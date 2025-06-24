@@ -14,6 +14,10 @@ I am currently coding at Palantir and follow new cool tech about AI/security/eva
 - Built with React Native for the frontend and Django REST for the backend, it uses APIs like OpenFoodFacts to deliver sustainability ratings.
 - Users can track progress, complete quizzes, and compete with friends on leaderboards, all while promoting eco-conscious habits.
 - Featured in the [U of T news paper Medium](https://themedium.ca/greengrub-an-app-dedicated-to-food-sustainability-and-healthy-eating/).
+<br/>
+  <img src="https://github.com/user-attachments/assets/bd5f3d8a-2088-4863-9895-904a35e0ee0b" alt="GreenGrub" width="400"/>
+<br/>
+<br/>
 
 #### 🏠 Solo-coded mobile-responsive Ruby on Rails application for apartments to share in Estonia: 
 
@@ -21,12 +25,28 @@ I am currently coding at Palantir and follow new cool tech about AI/security/eva
 - Filtering based on address, apartment features and price (integration with MapBox API)
 - Address suggestion (integration with Algolia API)
 - Messaging, authentication, edit profile functions
+<br/>
+ <img src="https://github.com/user-attachments/assets/4cc4878a-36c7-4d24-b790-bf9101169fac" alt="CoFlat" width="400"/>
+
+<br/>
+<br/>
 
 #### 🎤 React website for first youth-led Estonian politics podcast: 
 
 [Listen to our episodes](https://infosolm.netlify.app/), [Repository Link](https://github.com/adelmuursepp/podcast-infosolm)
 - Founder of the podcast where we interviewed the Prime Minister, Members of European Parliament and diplomats from the student perspective
 - Edited audio files, integrated React website with Buzzsprout API to drive podcast downloads to 6000, with website downloads outperforming Spotify and Apple Podcasts as a medium
+
+**We called the PM to ask what she thinks!**
+
+<br/>
+ <img src="https://github.com/user-attachments/assets/909e1fdc-ff08-41de-b434-cf876e4a99c3" alt="Infosolm" title="We called the PM to ask what she thinks" width="400"/>
+
+<br/>
+<br/>
+
+
+
 
 #### 🪴 Led a team of 3 developers to build application Suburban Farm at Le Wagon boot camp: 
 
@@ -42,16 +62,13 @@ I am currently coding at Palantir and follow new cool tech about AI/security/eva
 - I often give workshops at conferences like Women in Tech at Microsoft Office, Canada's largest hackathon Hack the North, Bay Area's largest women and non-binary hackathon Superposition among others
 - Have a look at my workshop on Azure technologies streamed on Youtube by Microsoft: [Event link](https://developer.microsoft.com/en-us/reactor/events/18451/)
 
-#### 👩‍💻 Some AI-focused hackathon projects
+#### 👩‍💻 Some hackathon projects
+- [Security Prize from Stanford TreeHacks - Homomorphic Encryption with some Blockchain](https://devpost.com/software/cipher-shield)
 - [Fruit Ripeness Predictor](https://devpost.com/software/seasonal)
 - [AI Agent on Phone for Health Care](https://github.com/adelmuursepp/pocketdoc)
 - [AI Care for Seniors with Dementia](https://devpost.com/software/carely)
 
 <br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adelmuursepp&show_icons=true&locale=en&\&rank_icon=github&include_all_commits=true" alt="adelmuursepp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adelmuursepp&" alt="adelmuursepp" /></p>
 
 <br/>
 
