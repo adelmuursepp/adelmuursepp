@@ -2,6 +2,8 @@
 
 My name is Adel and I am a Computer Science student in University of Toronto 📚💻
 
+I am currently coding at Palantir and follow new cool tech about AI/security/evals! I worked previously in Amazon, IBM and Cisco where I did infra and different AI integrations.
+
 
 ## Projects
 
