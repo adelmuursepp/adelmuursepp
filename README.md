@@ -33,18 +33,8 @@ I am currently coding at Palantir and follow new cool tech about AI/security/eva
 ### 🎤 React website for first youth-led Estonian politics podcast: 
 
 [Listen to our episodes](https://infosolm.netlify.app/), [Repository Link](https://github.com/adelmuursepp/podcast-infosolm)
-- Founder of the podcast where we interviewed the Prime Minister, Members of European Parliament and diplomats from the student perspective
+- Founder of the podcast where we interviewed the Prime Minister, President of the International Criminal Court, Members of European Parliament and diplomats from the student perspective
 - Edited audio files, integrated React website with Buzzsprout API to drive podcast downloads to 6000, with website downloads outperforming Spotify and Apple Podcasts as a medium
-
-**We called the PM to ask what she thinks!**
-
-<br/>
- <img src="https://github.com/user-attachments/assets/909e1fdc-ff08-41de-b434-cf876e4a99c3" alt="Infosolm" title="We called the PM to ask what she thinks" width="400"/>
-
-<br/>
-<br/>
-
-
 
 
 ### 🪴 Led a team of 3 developers to build application Suburban Farm at Le Wagon boot camp: 
