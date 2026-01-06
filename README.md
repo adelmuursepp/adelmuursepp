@@ -2,29 +2,61 @@ My name is Adel and I am a Computer Science student in University of Toronto �
 
 I have deployed AI infrastructure at Palantir, Amazon, IBM, Cisco and a few exciting startups. I am currently researching ML compilers, and previously done research in speculative decoding. Additionally, I took part in the Google Summer of Code under the mentorship of Google DeepMind, contributing open source to the largest AI evaluations framework.
 
+<br />
+
 ### Privacy Risks of Speculative Decoding
 
-[Read more about the research on the privacy and security risks of speculative decoding for LLMs](https://arxiv.org/abs/2411.01076)
+[Read more](https://arxiv.org/abs/2411.01076) about the research on the privacy and security risks of speculative decoding for LLMs
+
+
+
+
+### Security Prize at the Stanford TreeHacks hackathon
+
+[Have a look at the project](https://devpost.com/software/cipher-shield) built using fully homomorphic encryption which guarantees privacy preserving data aggregation and analysis
+
+
+
+### Open source contributor at Google Summer of Code 2025 under the mentorship of Google DeepMind
+
+- Added LLM evaluation tools for Gemini, with particular focus on multimodal responses, such as audion and images
+- Read more about it in a [Medium post](https://adel-muursepp.medium.com/google-summer-of-code-2025-with-google-deepmind-promptfoo-47f48917af06)
+- Have a look at the [audio integration PR](https://github.com/promptfoo/promptfoo/pull/4280)
+
 
 ### React website for first youth-led Estonian politics podcast: 
 
-[Listen to our episodes](https://infosolm.netlify.app/), [Repository Link](https://github.com/adelmuursepp/podcast-infosolm)
+[Repository Link](https://github.com/adelmuursepp/podcast-infosolm)
 - Founder of the podcast where we interviewed the Prime Minister, President of the International Criminal Court, Members of European Parliament and diplomats from the student perspective
 - Edited audio files, integrated React website with Buzzsprout API to drive podcast downloads to 6000, with website downloads outperforming Spotify and Apple Podcasts as a medium
 
+<img width="700"  alt="image" src="https://github.com/user-attachments/assets/3e2983e5-9c07-4665-92e0-9c899c4bfdd5" />
 
-### Led a team of 3 developers to build application Suburban Farm at Le Wagon boot camp: 
+<br />
+
+### Led a team of 3 developers to build a full stack application at Le Wagon boot camp: 
 
 [Listen to my pitch on Youtube](https://youtu.be/f_zCMICRmXo?t=565)
 - Led the creation of the application, starting from designs on Figma, hosting on Heroku, creating the database schema and pitching the idea
 
+
 ### Technical founder of a sustainability-focused startup Ramuri at U of T incubators Hatchery & ICUBE
 - Created the REST API for accessing information on brands
-- Created a Django website with Content Management System to represent the business, integrated with Mailerlite.
+- Created a Django website with Content Management System to represent the business, integrated with Mailerlite
 - Managing the resources and development of the browser extension displaying sustainability ratings for brands
+
+[Read more about the startup](https://icubeutm.ca/ramuri-changing-the-way-sustainability-is-measured/)
+
+
+<img width="450"  alt="image" src="https://github.com/user-attachments/assets/79f2aa19-73c3-4f42-93f8-519749b522e7" /> <img width="450" alt="Ramuri design" src="https://github.com/user-attachments/assets/2bc1dac2-efa9-4e1d-b85e-ff469b5aafeb" />
+
+
+<br /> 
+<br />
 
 ### 🌎 Workshops and community
 - I often give workshops at conferences like Women in Tech at Microsoft Office, Canada's largest hackathon Hack the North, Bay Area's largest women and non-binary hackathon Superposition among others
+- Built food waste management application, featured on the [university newspaper](https://themedium.ca/greengrub-an-app-dedicated-to-food-sustainability-and-healthy-eating/)
 - Have a look at my workshop on Azure technologies streamed on Youtube by Microsoft: [Event link](https://developer.microsoft.com/en-us/reactor/events/18451/)
 
 ### 👩‍💻 Some hackathon projects
