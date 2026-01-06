@@ -4,27 +4,27 @@ I have deployed AI infrastructure at Palantir, Amazon, IBM, Cisco and a few exci
 
 <br />
 
-### Privacy Risks of Speculative Decoding
+### 📖 Privacy Risks of Speculative Decoding
 
 [Read more](https://arxiv.org/abs/2411.01076) about the research on the privacy and security risks of speculative decoding for LLMs
 
+<br />
 
-
-
-### Security Prize at the Stanford TreeHacks hackathon
+### 🔐 Security Prize at the Stanford TreeHacks hackathon
 
 [Have a look at the project](https://devpost.com/software/cipher-shield) built using fully homomorphic encryption which guarantees privacy preserving data aggregation and analysis
 
+<br />
 
-
-### Open source contributor at Google Summer of Code 2025 under the mentorship of Google DeepMind
+### 💡 Open source contributor at Google Summer of Code 2025 under the mentorship of Google DeepMind
 
 - Added LLM evaluation tools for Gemini, with particular focus on multimodal responses, such as audion and images
 - Read more about it in a [Medium post](https://adel-muursepp.medium.com/google-summer-of-code-2025-with-google-deepmind-promptfoo-47f48917af06)
 - Have a look at the [audio integration PR](https://github.com/promptfoo/promptfoo/pull/4280)
 
+<br />
 
-### React website for first youth-led Estonian politics podcast: 
+### 🇪🇪 React website for first youth-led Estonian politics podcast: 
 
 [Repository Link](https://github.com/adelmuursepp/podcast-infosolm)
 - Founder of the podcast where we interviewed the Prime Minister, President of the International Criminal Court, Members of European Parliament and diplomats from the student perspective
@@ -34,21 +34,23 @@ I have deployed AI infrastructure at Palantir, Amazon, IBM, Cisco and a few exci
 
 <br />
 
-### Led a team of 3 developers to build a full stack application at Le Wagon boot camp: 
+### 👭👫 Led a team of 3 developers to build a full stack application at Le Wagon boot camp: 
 
 [Listen to my pitch on Youtube](https://youtu.be/f_zCMICRmXo?t=565)
 - Led the creation of the application, starting from designs on Figma, hosting on Heroku, creating the database schema and pitching the idea
 
+<br />
 
-### Technical founder of a sustainability-focused startup Ramuri at U of T incubators Hatchery & ICUBE
+### 🌱 Technical founder of a sustainability-focused startup Ramuri at U of T incubators Hatchery & ICUBE
 - Created the REST API for accessing information on brands
 - Created a Django website with Content Management System to represent the business, integrated with Mailerlite
 - Managing the resources and development of the browser extension displaying sustainability ratings for brands
 
 [Read more about the startup](https://icubeutm.ca/ramuri-changing-the-way-sustainability-is-measured/)
 
+<br />
 
-<img width="450"  alt="image" src="https://github.com/user-attachments/assets/79f2aa19-73c3-4f42-93f8-519749b522e7" /> <img width="450" alt="Ramuri design" src="https://github.com/user-attachments/assets/2bc1dac2-efa9-4e1d-b85e-ff469b5aafeb" />
+<img width="400"  alt="image" src="https://github.com/user-attachments/assets/79f2aa19-73c3-4f42-93f8-519749b522e7" /> <img width="400" alt="Ramuri design" src="https://github.com/user-attachments/assets/2bc1dac2-efa9-4e1d-b85e-ff469b5aafeb" />
 
 
 <br /> 
@@ -59,8 +61,9 @@ I have deployed AI infrastructure at Palantir, Amazon, IBM, Cisco and a few exci
 - Built food waste management application, featured on the [university newspaper](https://themedium.ca/greengrub-an-app-dedicated-to-food-sustainability-and-healthy-eating/)
 - Have a look at my workshop on Azure technologies streamed on Youtube by Microsoft: [Event link](https://developer.microsoft.com/en-us/reactor/events/18451/)
 
+<br />
+
 ### 👩‍💻 Some hackathon projects
-- [Security Prize from Stanford TreeHacks - Homomorphic Encryption with some Blockchain](https://devpost.com/software/cipher-shield)
 - [Fruit Ripeness Computer Vision Application](https://devpost.com/software/seasonal)
 - [AI Agent on Phone for Health Care](https://github.com/adelmuursepp/pocketdoc)
 - [AI Care for Seniors with Dementia](https://devpost.com/software/carely)
