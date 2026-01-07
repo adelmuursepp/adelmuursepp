@@ -58,28 +58,28 @@ I have deployed AI infrastructure at Palantir, Amazon, IBM, Cisco and a few exci
 
 ### 🌎 Workshops and community
 - I often give workshops at conferences like Women in Tech at Microsoft Office, Canada's largest hackathon Hack the North, Bay Area's largest women and non-binary hackathon Superposition among others
-- Built food waste management application, featured on the [university newspaper](https://themedium.ca/greengrub-an-app-dedicated-to-food-sustainability-and-healthy-eating/)
 - Have a look at my workshop on Azure technologies streamed on Youtube by Microsoft: [Event link](https://developer.microsoft.com/en-us/reactor/events/18451/)
 
 <br />
 
-### 👩‍💻 Some hackathon projects
-- [Fruit Ripeness Computer Vision Application](https://devpost.com/software/seasonal)
-- [AI Agent on Phone for Health Care](https://github.com/adelmuursepp/pocketdoc)
-- [AI Care for Seniors with Dementia](https://devpost.com/software/carely)
+### 👩‍💻 Some (hackathon) projects
+- [Fruit Ripeness Computer Vision Application](https://devpost.com/software/seasonal) - ElleHacks 3rd place
+- [AI Agent on Phone for Health Care](https://github.com/adelmuursepp/pocketdoc) - Created from the need documented from interviews the UHN Kidney Research Group for rehabilitation of patients
+- Built food waste management application, featured on the [university newspaper](https://themedium.ca/greengrub-an-app-dedicated-to-food-sustainability-and-healthy-eating/)
+- Full stack Ruby on Rails apartment rental website with Stripe, Algolia, etc. integrations. [View the repo](https://github.com/adelmuursepp/co-flat-website)
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/b9603356-5568-4349-86ff-3533b7df2239" />
+
 
 <br/>
 
 <br/>
 
-## 🔭 Shortly, some of my formal experience
-- Working in a construction automation startup to use robotics in home building and training ML models to make construction more efficient
-- Past internship experience in Scotiabank, Cisco, IBM, Amazon & Palantir
-- Open source contributions to Gemini evals and LLM red teaming repos
-- LLM and Cyber Security researcher at the University of Toronto, under the supervision of Prof. Saileshwar
+## 🔭 Shortly, some of the additional formal experience
+- Worked in a construction automation startup to use robotics in home building and training ML models to make construction more efficient
 - Workshop Lead at U of T Web Dev Club and a Microsoft Student Ambassador
 - Indicium research project in a team of five students in University of Toronto under Prof. Pooja Vashisth's guidance using React and Flask
-- Working on trading algorithms with UTMIST team under supervision of two Masters students
+- Working on trading algorithms using RL with UTMIST team under supervision of two Masters students
 - Designing and hosting a React website for logistics company in UK as a freelancer: [Try it out](https://webcafs.netlify.app/)
 
 <br/>
