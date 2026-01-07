@@ -64,7 +64,7 @@ I have deployed AI infrastructure at Palantir, Amazon, IBM, Cisco and a few exci
 
 ### 👩‍💻 Some (hackathon) projects
 - [Fruit Ripeness Computer Vision Application](https://devpost.com/software/seasonal) - ElleHacks 3rd place
-- [AI Agent on Phone for Health Care](https://github.com/adelmuursepp/pocketdoc) - Created from the need documented from interviews the UHN Kidney Research Group for rehabilitation of patients
+- [AI Agent on Phone for Health Care](https://github.com/adelmuursepp/pocketdoc) - Created from the need documented from interviews with the UHN Kidney Research Group for rehabilitation of patients. Our team tackled the real challenge of keeping in touch with patients after the kidney trasplant operation.
 - Built food waste management application, featured on the [university newspaper](https://themedium.ca/greengrub-an-app-dedicated-to-food-sustainability-and-healthy-eating/)
 - Full stack Ruby on Rails apartment rental website with Stripe, Algolia, etc. integrations. [View the repo](https://github.com/adelmuursepp/co-flat-website)
 
